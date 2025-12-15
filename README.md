@@ -21,9 +21,6 @@
                                       
 ```
 
-![Repo Size](https://img.shields.io/github/repo-size/daemon1/Ethical_Hacking-Cheatsheets?style=social)
-![License](https://img.shields.io/github/license/daemon1/Ethical_Hacking-Cheatsheets?style=social)
-![Stars](https://img.shields.io/github/stars/daemon1/Ethical_Hacking-Cheatsheets?style=social)
 
 > **System Status**: `ONLINE`
 > **Access Level**: `PUBLIC`
