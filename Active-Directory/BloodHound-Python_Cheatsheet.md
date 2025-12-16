@@ -791,4 +791,4 @@ proxychains bloodhound-python -c all -u USER -p PASS -d DOMAIN -ns DC_IP --zip
 
 ---
 
-**Created by NetRunner | For Ethical Hacking & Penetration Testing** 🎓🔐
+**Created by Claude | For Ethical Hacking & Penetration Testing** 🎓🔐
