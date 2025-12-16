@@ -1,5 +1,3 @@
-I'll search for information about Certipy-ad and the HTB EscapeTwo writeup to create a comprehensive cheat sheet.# 🔐 Certipy-AD Cheat Sheet
-
 > **A comprehensive guide for Active Directory Certificate Services enumeration and exploitation using Certipy-ad**
 
 ---
