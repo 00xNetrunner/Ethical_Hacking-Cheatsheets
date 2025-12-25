@@ -58,7 +58,8 @@
 **`[TARGET_AUDIENCE]`** Red Teamers • Pentesters • CTF Players • Security Researchers
 
 ```
-All guides were created by 00xNetrunner and were originally stored in an Obsidian vault; they have been reformatted for GitHub using Claude Code.
+All guides were created by 00xNetrunner and were originally stored in an Obsidian vault.
+They have been reformatted for GitHub using Claude Code.
 ```
 ---
 
