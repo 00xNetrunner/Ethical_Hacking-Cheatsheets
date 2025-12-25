@@ -138,6 +138,7 @@
 | 🎯 [**FFUF**](Enumeration/FFUF_Cheat_Sheet__2_.pdf) | Web fuzzing utility | `web-fuzzing` `discovery` |
 | 🖥️ [**NetExec**](Enumeration/netexec.pdf) | Network execution tool | `smb` `network` |
 | ⚡ [**RustScan**](Enumeration/RustScan.pdf) | Fast port scanner | `port-scan` `rust` |
+| 🔍 [**Shodan**](Enumeration/Shodan_Cheatsheet.md) | Internet-connected device search engine | `osint` `recon` `iot` |
 
  
 
