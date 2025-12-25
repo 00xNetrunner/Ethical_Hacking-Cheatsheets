@@ -139,6 +139,7 @@
 | 🎯 [**FFUF**](Enumeration/FFUF_Cheat_Sheet__2_.pdf) | Web fuzzing utility | `web-fuzzing` `discovery` |
 | 🖥️ [**NetExec**](Enumeration/netexec.pdf) | Network execution tool | `smb` `network` |
 | ⚡ [**RustScan**](Enumeration/RustScan.pdf) | Fast port scanner | `port-scan` `rust` |
+| 🔍 [**Shodan**](Enumeration/Shodan_Cheatsheet.md) | Internet-connected device search engine | `osint` `recon` `iot` |
 
  
 
@@ -232,6 +233,7 @@
 
 | Tool | Description | Tags |
 |:-----|:------------|:-----|
+| 📂 [**SMBServer**](Misc/smbserver-cheatsheet.md) | Impacket SMB server for file transfer | `smb` `transfer` `impacket` |
 | 🧽 [**Sponge**](Misc/sponge-cheatsheet.md) | Pipe buffer utility | `pipe` `buffer` |
 | 🔒 [**OpenSSL**](Misc/openssl-cheatsheet.pdf) | SSL/TLS toolkit | `ssl` `certs` |
 | 📝 [**Overleaf Archive**](Misc/Overleaf%20Archive.pdf) | LaTeX documentation | `latex` |
