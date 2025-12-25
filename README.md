@@ -40,7 +40,7 @@
 > **`[SYSTEM]`** Status: `ONLINE` | Access Level: `PUBLIC` | Protocol: `SECURE`
 >
 > **`[WARNING]`** *Execute with caution. Unauthorized access is prohibited. For educational purposes only.*
-> All guides were made by 00xNetrunner, were originally in an obsidian vault, they were reformatted for github using claude code
+
 
 ---
 
@@ -56,7 +56,10 @@
 **Hacking Cheat Sheets Database** - A curated collection of commands, techniques, and references for penetration testing operations. Built by a hacker, for hackers.
 
 **`[TARGET_AUDIENCE]`** Red Teamers • Pentesters • CTF Players • Security Researchers
+
+```
 All guides were created by 00xNetrunner and were originally stored in an Obsidian vault; they have been reformatted for GitHub using Claude Code.
+```
 ---
 
 ## 📂 >_ Directory.Traverse()
