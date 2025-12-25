@@ -22,83 +22,42 @@
 ║  ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝                             ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 
-```
-
- 
-
 <!-- BADGES -->
-
 ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-
 ![Ethical Hacking](https://img.shields.io/badge/ETHICAL_HACKING-00FF00?style=for-the-badge&logo=kalilinux&logoColor=black)
-
 ![Active Directory](https://img.shields.io/badge/ACTIVE_DIRECTORY-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
 ![Penetration Testing](https://img.shields.io/badge/PENTESTING-9400D3?style=for-the-badge&logo=burpsuite&logoColor=white)
 
- 
-
 [![GitHub](https://img.shields.io/badge/GitHub-0xNetrunner-181717?style=flat-square&logo=github)](https://github.com/00xNetrunner)
-
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=flat-square)
-
 ![Access](https://img.shields.io/badge/ACCESS-PUBLIC-blue?style=flat-square)
-
- 
 
 </div>
 
- 
-
 ---
-
- 
 
 > **`[SYSTEM]`** Status: `ONLINE` | Access Level: `PUBLIC` | Protocol: `SECURE`
-
 >
-
 > **`[WARNING]`** *Execute with caution. Unauthorized access is prohibited. For educational purposes only.*
 
- 
-
 ---
-
- 
 
 ## ⚡ >_ System.Initialize()
 
- 
-
 ```python
-
 >>> Initializing Hack_The_Planet.exe...
-
 >>> Loading cheatsheet_database.db...
-
 >>> Connection established...
-
 >>> Welcome, Netrunner.
-
 ```
-
- 
 
 **Hacking Cheat Sheets Database** - A curated collection of commands, techniques, and references for penetration testing operations. Built by a hacker, for hackers.
 
- 
-
 **`[TARGET_AUDIENCE]`** Red Teamers • Pentesters • CTF Players • Security Researchers
-
-> .MD cheat sheets were made with AI
 
 ---
 
- 
-
 ## 📂 >_ Directory.Traverse()
-
- 
 
 | Access | Sector | Description |
 | :---: | :--- | :--- |
@@ -112,8 +71,6 @@
 | 🔑 | [**Password Attacks**](#-password-attacks) | `Cracking` `Spraying` |
 | 🛡️ | [**Purple Team**](#-purple-team) | `Defense` `Offense` `Manuals` |
 | 🌐 | [**Web**](#-web) | `HTTP` `cURL` `Injections` |
-
- 
 
 ---
 
